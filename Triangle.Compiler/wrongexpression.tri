@@ -1,0 +1,6 @@
+let
+	const MAX ~ 10;
+	var numberUnder11: Integer
+in
+	if(do){
+	}
